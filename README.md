@@ -1,1 +1,0 @@
-# xinghuoIM-hook-sign
